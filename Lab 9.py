@@ -2,7 +2,8 @@ menu = ("Menu\n"
         "-------------\n"
         "1. Encode\n"
         "2. Decode\n"
-        "3. Quit\n")
+        "3. Quit\n"
+        "4. Added new menu option")
 
 
 inmenu = True
