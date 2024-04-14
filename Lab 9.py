@@ -7,7 +7,8 @@ menu = ("Menu\n"
 
 inmenu = True
 
-def encode(string):
+def encode(string): #what was the point of writing a whole code for this
+                    # we couldve just used an empty python document
     encoded = ""
     for i in string:
         character = int(i) +3
